@@ -21,9 +21,9 @@ contextual/definitional information.
 
 There are multiple domains of networking, and it may be beneficial to
 ask the person or event you are captioning for what domains are
-relevant.
+relevant or which terms from the following lists may come up.
 
-### General NEtworking
+### General Networking
 
  * Ethernet: a type of network connection
  * LAN (rhymes with Dan): Local Area Network
