@@ -108,7 +108,7 @@ relevant or which terms from the following lists may come up.
 
 ### Security or Resiliency
 
- * ACL (spelled): Access Control List
+ * ACL (spelled or as ack-el): Access Control List
  * DOS/DDOS (DOS pronounced to rhyme with boss; DDOS has the first D
    pronounced as a letter) Denial of service attack or distributed
    denial of service attack
