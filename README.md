@@ -1,5 +1,23 @@
 # CART Technical Vocabulary
 
+## What is CART?
+
+CART is Communication Access Realtime Translation. This is a service
+provided by specialized people to provide real-time captions to those
+who may benefit from those captions.  You can find out [more
+here](https://mn.gov/deaf-hard-of-hearing/communication-access/cart/).
+
+## Who is this Page For?
+
+Primarily, this page is for the people providing the captioning, I.E.
+the stenographers that create the transcriptions/captions.  However, it
+may be useful if you are contracting a CART vendor for an event or
+interview, as you may want to refer to this to help your CART
+professional understand terminology they may encounter, which will
+ensure higher quality captions. Likewise, it may be useful to people who
+benefit from CART, to provide to your providers, to obtain better
+quality captioning.
+
 ## Purpose
 
 Technical employees use specialized vocabulary at work.  Some of these
