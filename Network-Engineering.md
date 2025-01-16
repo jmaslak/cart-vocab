@@ -123,3 +123,8 @@ relevant or which terms from the following lists may come up.
  * Infinera (in-fin-err-ah): A fiber optic equipment vendor
  * Juniper: A network device vendor
  * Nokia: A network device vendor
+
+### Hardware
+
+ * SERDES (sir-dee's): Serializer/Deserialiser, internal network device
+   component to translate network traffic from bytes to a bitstream
