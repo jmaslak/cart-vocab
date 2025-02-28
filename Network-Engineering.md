@@ -23,7 +23,8 @@ relevant or which terms from the following lists may come up.
  * Route/router/routing: Means of or devices that move packets around the network
  * Megabits/Gigabits/Terabits: Network engineers almost always talk
    about bits, not bytes, unlike most IT professionals.
- * Megs/Gigs: Short for megabits/gigabits
+ * Megs/Gigs: Short for megabits/gigabits (usually in networking, it's
+   bits, not bytes)
  * WAN (rhymes with Dan): Wide Area Network
 
 ### Network Processes / Operations
@@ -69,6 +70,7 @@ relevant or which terms from the following lists may come up.
  * PNI (spelled): Private Network Interconnect
  * QoE (spelled): Quality of Experience
  * QoS (spelled): Quality of Service
+ * RR (spelled): Route Reflector
  * Service class: Type of packet marking
  * Sflow (ess-flow): A type of network accounting record
  * SSH (spelled): Secure Shell
