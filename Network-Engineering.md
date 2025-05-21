@@ -1,5 +1,9 @@
 # Network Engineering Vocabulary
 
+## Creators
+
+This guide is created by Joelle Maslak.
+
 ## How This Guide Works
 
 Each word/acronym will be presented with the pronunciation, if not
