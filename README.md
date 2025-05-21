@@ -49,3 +49,16 @@ domains or update ones that are already there.  However, also feel free
 to email me (`jmaslak@antelope.net`) suggestions, along with whether or
 not you would like to be credited.
 
+Just create a new Markdown page for your vocabulary and submit it as a
+PR, to contribute.  Use the [Network Engineering Vocabulary](Network-Engnieering.md)
+as an example for the format of how additional vocabulary pages should be
+created.  I may ask you to reformat if your format significantly differs.
+
+Please only contribute work that you can contribute under the CC-BY 4.0
+license.
+
+## Licensing
+
+This is licensed under the [CC-BY 4.0
+License](https://creativecommons.org/licenses/by/4.0/)
+
